@@ -1,14 +1,14 @@
-//import React from "react";
+import React from "react";
 
 export default function ShowDate(props) {
   let days = [
-    "sunday",
-    "monday",
-    "tuesday",
-    "wednesday",
-    "thursday",
-    "friday",
-    "saturday",
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
   ];
   let day = days[props.date.getDay()];
   let hours = props.date.getHours();
