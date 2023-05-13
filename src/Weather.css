@@ -50,3 +50,7 @@
   line-height: 1px;
   top: -34px;
 }
+.float-left {
+  float: left;
+  margin-top: 10px;
+}
