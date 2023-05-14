@@ -19,6 +19,11 @@ export default function App() {
           is{" "}
           <a href="https://github.com/Kimiaparand/react-weather-app">
             opened-source on Github
+          </a>{" "}
+          and
+          <a href="https://app.netlify.com/teams/kimiaparand/overview">
+            {" "}
+            hosted on netlify
           </a>
         </footer>
       </div>
